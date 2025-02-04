@@ -6,7 +6,7 @@ export default {
   registrationDisabled: false,
 
   // site slogan
-  slogan: "Personalised nostr addresses.",
+  slogan: "Personalized nostr addresses.",
 
   // your donation LNURL
   donationLNUrl:
