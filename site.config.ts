@@ -1,12 +1,12 @@
 export default {
   // your domain name
-  host: "zaps.lol",
+  host: "nostr.lnwallet.app",
 
   // set to true to disable registration site-wide
   registrationDisabled: false,
 
   // site slogan
-  slogan: "Free nostr addresses.",
+  slogan: "Personalised nostr addresses.",
 
   // your donation LNURL
   donationLNUrl:
